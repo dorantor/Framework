@@ -25,7 +25,7 @@
         "phpixie/filesystem": "~3.0",
         "phpixie/database": "dev-arrays@dev",
         "phpixie/config": "~3.0",
-        "phpixie/orm": "~3.0",
+        "phpixie/orm": "dev-dorantor@dev",
         "phpixie/slice": "~3.0",
         "phpixie/processors": "~3.0",
         "phpixie/http": "~3.0",
