@@ -23,7 +23,7 @@
         "phpixie/route": "~3.0",
         "phpixie/template": "~3.0",
         "phpixie/filesystem": "~3.0",
-        "phpixie/database": "dev-arrays",
+        "phpixie/database": "dev-arrays@dev",
         "phpixie/config": "~3.0",
         "phpixie/orm": "~3.0",
         "phpixie/slice": "~3.0",
